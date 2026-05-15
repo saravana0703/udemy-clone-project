@@ -90,4 +90,5 @@ Udemy-Clone/
 └── README.md
 
 ##Screenshots
+
 ![Homepage Screenshot](images/udemy-page.png)
